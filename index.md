@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Sheetal Kabra
 
-You can use the [editor on GitHub](https://github.com/SheetalKabra4/digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Highly-skilled senior software engineer with 6+ years of experience. Motivated to advance and expand my skill set through targeted mentorship and challenging projects. Eager to solve logical problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Work History
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
